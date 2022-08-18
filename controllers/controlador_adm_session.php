@@ -6,7 +6,7 @@
  * @final En proceso
  *
  */
-namespace gamboamartin\organigrama\controllers;
+namespace gamboamartin\cfd_sep\controllers;
 
 use config\generales;
 use gamboamartin\errores\errores;

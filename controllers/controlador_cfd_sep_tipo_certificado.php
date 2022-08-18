@@ -6,7 +6,7 @@
  * @final En proceso
  *
  */
-namespace gamboamartin\academico\controllers;
+namespace gamboamartin\cfd_sep\controllers;
 
 
 use gamboamartin\system\links_menu;
